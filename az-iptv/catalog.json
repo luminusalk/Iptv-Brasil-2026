@@ -1,0 +1,19 @@
+{
+  "payload": {
+    "schema": 1,
+    "revision": 1,
+    "lists": [
+      {
+        "id": "demonstracao",
+        "title": "Demonstracao",
+        "channels": [
+          {
+            "name": "Teste de video e audio (15 segundos)",
+            "url": "https://raw.githubusercontent.com/luminusalk/Iptv-Brasil-2026/master/az-iptv/demo.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "signature": "Xt2g0QbMHoeGPRWcd1GfjlCb2rTlKzNoGjMP5xfCRVJUuwn/tods41CecOBZ/uJt8xlMeYxMsOvR+Drh/bwXGbBxEdL9d7nyppeDIXLE4g2I4dGARNEMq544WdNh8vz4ERGGYEzPc6A6gGTU9bIVhEaOHqVgYyD0fOuWZoBGZynauubm0UMDKFrMMQ2Qs8M/+aanQGzmaNtLOACmdIRRLCt6zz23p25bXQSiBVp5dxEwyhWpCPjfu4PjLMdPyr9ObeM3e8Cdpz85G3V/H1BqrTtZ5/j/HghAm73xxsymB9/nQG1BonV5HH+gsG6s18zeXz8qTvoWdSAH5AZFnXnrVw=="
+}

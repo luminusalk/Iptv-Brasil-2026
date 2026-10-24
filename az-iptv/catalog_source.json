@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "revision": 1,
+  "lists": [
+    {
+      "id": "demonstracao",
+      "title": "Demonstracao",
+      "channels": [
+        {
+          "name": "Teste de video e audio (15 segundos)",
+          "url": "https://raw.githubusercontent.com/luminusalk/Iptv-Brasil-2026/master/az-iptv/demo.mp4"
+        }
+      ]
+    }
+  ]
+}
