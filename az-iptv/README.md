@@ -3,6 +3,9 @@
 Este diretorio e consultado pelo complemento Az IPTV instalado no receptor.
 `catalog.json` contem as listas e a assinatura digital. O aparelho verifica a
 assinatura antes de trocar o catalogo guardado em sua memoria.
+`app-code-0.3.1.zip` e a atualizacao de codigo indicada por esse catalogo.
+O ZIP `plugin.video.az_iptv-0.3.1.zip` permite uma instalacao completa no XBMC;
+o codigo-fonte correspondente esta em `app/`.
 
 O arquivo `demo.mp4` e apenas um teste de 15 segundos com imagem e audio.
 As listas IPTV ja existentes na raiz deste fork nao sao importadas

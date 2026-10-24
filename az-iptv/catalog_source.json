@@ -1,6 +1,11 @@
 {
   "schema": 1,
-  "revision": 1,
+  "revision": 2,
+  "app": {
+    "version": "0.3.1",
+    "url": "https://raw.githubusercontent.com/luminusalk/Iptv-Brasil-2026/master/az-iptv/app-code-0.3.1.zip",
+    "sha256": "e0145d53ca22c20427215295e08e6225618139e757bffc15841d3903966f51c5"
+  },
   "lists": [
     {
       "id": "demonstracao",
