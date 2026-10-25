@@ -1,0 +1,1000 @@
+{
+  "payload": {
+    "schema": 1,
+    "revision": 7,
+    "lists": [
+      {
+        "id": "canais-abertos",
+        "title": "Canais Abertos (1080p / 720p)",
+        "channels": [
+          {
+            "name": "Globo SP [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/289881",
+            "logo": "http://beststorage4you.com:80/logoscanais/GLOBO.png"
+          },
+          {
+            "name": "Globo SP [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/289883",
+            "logo": "http://beststorage4you.com:80/logoscanais/GLOBO.png"
+          },
+          {
+            "name": "Globo RJ [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2376",
+            "logo": "http://beststorage4you.com:80/logoscanais/GLOBO.png"
+          },
+          {
+            "name": "Globo RJ [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2374",
+            "logo": "http://beststorage4you.com:80/logoscanais/GLOBO.png"
+          },
+          {
+            "name": "Globo MG [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2380",
+            "logo": "http://beststorage4you.com:80/logoscanais/GLOBO.png"
+          },
+          {
+            "name": "Globo MG [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2378",
+            "logo": "http://beststorage4you.com:80/logoscanais/GLOBO.png"
+          },
+          {
+            "name": "Globo DF [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2452",
+            "logo": "http://beststorage4you.com:80/logoscanais/GLOBO.png"
+          },
+          {
+            "name": "Globo DF [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2451",
+            "logo": "http://beststorage4you.com:80/logoscanais/GLOBO.png"
+          },
+          {
+            "name": "Globo Nordeste [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2428",
+            "logo": "http://beststorage4you.com:80/logoscanais/GLOBO.png"
+          },
+          {
+            "name": "Globo Nordeste [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2427",
+            "logo": "http://beststorage4you.com:80/logoscanais/GLOBO.png"
+          },
+          {
+            "name": "SBT SP [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/244161",
+            "logo": "http://beststorage4you.com:80/logoscanais/SBT.png"
+          },
+          {
+            "name": "SBT SP [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/244167",
+            "logo": "http://beststorage4you.com:80/logoscanais/SBT.png"
+          },
+          {
+            "name": "SBT RJ [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/244173",
+            "logo": "http://beststorage4you.com:80/logoscanais/SBT.png"
+          },
+          {
+            "name": "SBT RJ [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/244174",
+            "logo": "http://beststorage4you.com:80/logoscanais/SBT.png"
+          },
+          {
+            "name": "SBT RS [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/244181",
+            "logo": "http://beststorage4you.com:80/logoscanais/SBT.png"
+          },
+          {
+            "name": "SBT RS [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/244182",
+            "logo": "http://beststorage4you.com:80/logoscanais/SBT.png"
+          },
+          {
+            "name": "RecordTV SP [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/244071",
+            "logo": "http://beststorage4you.com:80/logoscanais/RECORDTV.png"
+          },
+          {
+            "name": "RecordTV SP [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/244075",
+            "logo": "http://beststorage4you.com:80/logoscanais/RECORDTV.png"
+          },
+          {
+            "name": "RecordTV RJ [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/528661",
+            "logo": "http://beststorage4you.com:80/logoscanais/RECORDTV.png"
+          },
+          {
+            "name": "RecordTV RJ [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/528662",
+            "logo": "http://beststorage4you.com:80/logoscanais/RECORDTV.png"
+          },
+          {
+            "name": "RecordTV Minas [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/244098",
+            "logo": "http://beststorage4you.com:80/logoscanais/RECORDTV.png"
+          },
+          {
+            "name": "RecordTV Minas [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/244099",
+            "logo": "http://beststorage4you.com:80/logoscanais/RECORDTV.png"
+          },
+          {
+            "name": "Band SP [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/255465",
+            "logo": "http://beststorage4you.com:80/logoscanais/BAND.png"
+          },
+          {
+            "name": "Band SP [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/255467",
+            "logo": "http://beststorage4you.com:80/logoscanais/BAND.png"
+          },
+          {
+            "name": "RedeTV! [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/80170",
+            "logo": "http://beststorage4you.com:80/logoscanais/REDETV!.png"
+          },
+          {
+            "name": "RedeTV! [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/80172",
+            "logo": "http://beststorage4you.com:80/logoscanais/REDETV!.png"
+          },
+          {
+            "name": "TV Cultura [720p HD]",
+            "url": "https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br",
+            "logo": "http://beststorage4you.com:80/logoscanais/TVCULTURA.png"
+          },
+          {
+            "name": "TV Brasil [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/364678",
+            "logo": "http://beststorage4you.com:80/logoscanais/TVBRASIL.png"
+          },
+          {
+            "name": "TV Brasil [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/165",
+            "logo": "http://beststorage4you.com:80/logoscanais/TVBRASIL.png"
+          },
+          {
+            "name": "TV Gazeta [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2440",
+            "logo": "http://beststorage4you.com:80/logoscanais/GLOBO.png"
+          },
+          {
+            "name": "TV Gazeta [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2439",
+            "logo": "http://beststorage4you.com:80/logoscanais/GLOBO.png"
+          },
+          {
+            "name": "Rede Vida [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/198",
+            "logo": "http://beststorage4you.com:80/logoscanais/REDEVIDA.png"
+          },
+          {
+            "name": "Rede Vida [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/197",
+            "logo": "http://beststorage4you.com:80/logoscanais/REDEVIDA.png"
+          },
+          {
+            "name": "TV Aparecida [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/190",
+            "logo": "http://beststorage4you.com:80/logoscanais/TVAPARECIDA.png"
+          },
+          {
+            "name": "TV Aparecida [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/189",
+            "logo": "http://beststorage4you.com:80/logoscanais/TVAPARECIDA.png"
+          }
+        ]
+      },
+      {
+        "id": "esportes",
+        "title": "Esportes (1080p / 720p)",
+        "channels": [
+          {
+            "name": "SporTV 1 [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/118881",
+            "logo": "http://beststorage4you.com:80/logoscanais/SPORTV.png"
+          },
+          {
+            "name": "SporTV 1 [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/547",
+            "logo": "http://beststorage4you.com:80/logoscanais/SPORTV.png"
+          },
+          {
+            "name": "SporTV 2 [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/554",
+            "logo": "http://beststorage4you.com:80/logoscanais/SPORTV.png"
+          },
+          {
+            "name": "SporTV 2 [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/552",
+            "logo": "http://beststorage4you.com:80/logoscanais/SPORTV.png"
+          },
+          {
+            "name": "SporTV 3 [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/559",
+            "logo": "http://beststorage4you.com:80/logoscanais/SPORTV.png"
+          },
+          {
+            "name": "SporTV 3 [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/557",
+            "logo": "http://beststorage4you.com:80/logoscanais/SPORTV.png"
+          },
+          {
+            "name": "SporTV 4 [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/567893",
+            "logo": "http://beststorage4you.com:80/logoscanais/SPORTV.png"
+          },
+          {
+            "name": "SporTV 4 [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/567895",
+            "logo": "http://beststorage4you.com:80/logoscanais/SPORTV.png"
+          },
+          {
+            "name": "SporTV 5 [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/613662",
+            "logo": "http://beststorage4you.com:80/logoscanais/SPORTV.png"
+          },
+          {
+            "name": "SporTV 5 [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/613663",
+            "logo": "http://beststorage4you.com:80/logoscanais/SPORTV.png"
+          },
+          {
+            "name": "ESPN 1 [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/309458",
+            "logo": "http://beststorage4you.com:80/logoscanais/ESPN.png"
+          },
+          {
+            "name": "ESPN 1 [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/520127",
+            "logo": "http://beststorage4you.com:80/logoscanais/ESPN.png"
+          },
+          {
+            "name": "ESPN 2 [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/215",
+            "logo": "http://beststorage4you.com:80/logoscanais/ESPN.png"
+          },
+          {
+            "name": "ESPN 2 [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/213",
+            "logo": "http://beststorage4you.com:80/logoscanais/ESPN.png"
+          },
+          {
+            "name": "ESPN 3 [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/220",
+            "logo": "http://beststorage4you.com:80/logoscanais/ESPN.png"
+          },
+          {
+            "name": "ESPN 3 [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/218",
+            "logo": "http://beststorage4you.com:80/logoscanais/ESPN.png"
+          },
+          {
+            "name": "ESPN 4 [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/225",
+            "logo": "http://beststorage4you.com:80/logoscanais/ESPN.png"
+          },
+          {
+            "name": "ESPN 4 [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/223",
+            "logo": "http://beststorage4you.com:80/logoscanais/ESPN.png"
+          },
+          {
+            "name": "ESPN 5 [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/563030",
+            "logo": "http://beststorage4you.com:80/logoscanais/ESPN.png"
+          },
+          {
+            "name": "ESPN 5 [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/563031",
+            "logo": "http://beststorage4you.com:80/logoscanais/ESPN.png"
+          },
+          {
+            "name": "Band Sports [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/235",
+            "logo": "http://beststorage4you.com:80/logoscanais/BANDSPORTS.png"
+          },
+          {
+            "name": "Band Sports [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/233",
+            "logo": "http://beststorage4you.com:80/logoscanais/BANDSPORTS.png"
+          },
+          {
+            "name": "Premiere Clubes [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/494",
+            "logo": "http://beststorage4you.com:80/logoscanais/PREMIERE.png"
+          },
+          {
+            "name": "Premiere Clubes [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/492",
+            "logo": "http://beststorage4you.com:80/logoscanais/PREMIERE.png"
+          },
+          {
+            "name": "Premiere 2 [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/499",
+            "logo": "http://beststorage4you.com:80/logoscanais/PREMIERE.png"
+          },
+          {
+            "name": "Premiere 2 [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/497",
+            "logo": "http://beststorage4you.com:80/logoscanais/PREMIERE.png"
+          },
+          {
+            "name": "Premiere 3 [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/504",
+            "logo": "http://beststorage4you.com:80/logoscanais/PREMIERE.png"
+          },
+          {
+            "name": "Premiere 3 [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/502",
+            "logo": "http://beststorage4you.com:80/logoscanais/PREMIERE.png"
+          },
+          {
+            "name": "Premiere 4 [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/509",
+            "logo": "http://beststorage4you.com:80/logoscanais/PREMIERE.png"
+          },
+          {
+            "name": "Premiere 4 [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/507",
+            "logo": "http://beststorage4you.com:80/logoscanais/PREMIERE.png"
+          },
+          {
+            "name": "Premiere 5 [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/514",
+            "logo": "http://beststorage4you.com:80/logoscanais/PREMIERE.png"
+          },
+          {
+            "name": "Premiere 5 [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/512",
+            "logo": "http://beststorage4you.com:80/logoscanais/PREMIERE.png"
+          },
+          {
+            "name": "Premiere 6 [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/519",
+            "logo": "http://beststorage4you.com:80/logoscanais/PREMIERE.png"
+          },
+          {
+            "name": "Premiere 6 [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/517",
+            "logo": "http://beststorage4you.com:80/logoscanais/PREMIERE.png"
+          },
+          {
+            "name": "Premiere 7 [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/524",
+            "logo": "http://beststorage4you.com:80/logoscanais/PREMIERE.png"
+          },
+          {
+            "name": "Premiere 7 [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/522",
+            "logo": "http://beststorage4you.com:80/logoscanais/PREMIERE.png"
+          },
+          {
+            "name": "Combate [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/240",
+            "logo": "http://beststorage4you.com:80/logoscanais/COMBATE.png"
+          },
+          {
+            "name": "Combate [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/238",
+            "logo": "http://beststorage4you.com:80/logoscanais/COMBATE.png"
+          },
+          {
+            "name": "Caz\u00e9TV [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/254102",
+            "logo": "http://beststorage4you.com:80/logoscanais/CAZETV.png"
+          },
+          {
+            "name": "Caz\u00e9TV [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/254104",
+            "logo": "http://beststorage4you.com:80/logoscanais/CAZETV.png"
+          },
+          {
+            "name": "NBA TV [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/254078",
+            "logo": "http://beststorage4you.com:80/logoscanais/NBALEAGUEPASS.png"
+          }
+        ]
+      },
+      {
+        "id": "filmes-series",
+        "title": "Filmes e S\u00e9ries (1080p / 720p)",
+        "channels": [
+          {
+            "name": "HBO [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/543987",
+            "logo": "http://beststorage4you.com:80/logoscanais/HBO.png"
+          },
+          {
+            "name": "HBO [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/543988",
+            "logo": "http://beststorage4you.com:80/logoscanais/HBO.png"
+          },
+          {
+            "name": "HBO 2 [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/18755",
+            "logo": "http://beststorage4you.com:80/logoscanais/HBO.png"
+          },
+          {
+            "name": "HBO 2 [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/18756",
+            "logo": "http://beststorage4you.com:80/logoscanais/HBO.png"
+          },
+          {
+            "name": "HBO Plus [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/559662",
+            "logo": "http://beststorage4you.com:80/logoscanais/HBO.png"
+          },
+          {
+            "name": "HBO Plus [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/559663",
+            "logo": "http://beststorage4you.com:80/logoscanais/HBO.png"
+          },
+          {
+            "name": "HBO Family [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/18759",
+            "logo": "http://beststorage4you.com:80/logoscanais/HBO.png"
+          },
+          {
+            "name": "HBO Family [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/18760",
+            "logo": "http://beststorage4you.com:80/logoscanais/HBO.png"
+          },
+          {
+            "name": "HBO Signature [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/559665",
+            "logo": "http://beststorage4you.com:80/logoscanais/HBO.png"
+          },
+          {
+            "name": "HBO Signature [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/559666",
+            "logo": "http://beststorage4you.com:80/logoscanais/HBO.png"
+          },
+          {
+            "name": "HBO Mundi [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/559668",
+            "logo": "http://beststorage4you.com:80/logoscanais/HBO.png"
+          },
+          {
+            "name": "HBO Mundi [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/559669",
+            "logo": "http://beststorage4you.com:80/logoscanais/HBO.png"
+          },
+          {
+            "name": "HBO Pop [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/559671",
+            "logo": "http://beststorage4you.com:80/logoscanais/HBO.png"
+          },
+          {
+            "name": "HBO Pop [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/559672",
+            "logo": "http://beststorage4you.com:80/logoscanais/HBO.png"
+          },
+          {
+            "name": "Megapix [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/692",
+            "logo": "http://beststorage4you.com:80/logoscanais/MEGAPIX.png"
+          },
+          {
+            "name": "Megapix [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/690",
+            "logo": "http://beststorage4you.com:80/logoscanais/MEGAPIX.png"
+          },
+          {
+            "name": "TNT [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/264555",
+            "logo": "http://beststorage4you.com:80/logoscanais/TNT.png"
+          },
+          {
+            "name": "TNT [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/264556",
+            "logo": "http://beststorage4you.com:80/logoscanais/TNT.png"
+          },
+          {
+            "name": "TNT Series [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/738",
+            "logo": "http://beststorage4you.com:80/logoscanais/TNTSERIES.png"
+          },
+          {
+            "name": "TNT Series [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/736",
+            "logo": "http://beststorage4you.com:80/logoscanais/TNTSERIES.png"
+          },
+          {
+            "name": "TNT Novelas [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/264555",
+            "logo": "http://beststorage4you.com:80/logoscanais/TNT.png"
+          },
+          {
+            "name": "TNT Novelas [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/264556",
+            "logo": "http://beststorage4you.com:80/logoscanais/TNT.png"
+          },
+          {
+            "name": "Space [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/707",
+            "logo": "http://beststorage4you.com:80/logoscanais/SPACE.png"
+          },
+          {
+            "name": "Space [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/705",
+            "logo": "http://beststorage4you.com:80/logoscanais/SPACE.png"
+          },
+          {
+            "name": "Warner Channel [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/749",
+            "logo": "http://beststorage4you.com:80/logoscanais/WARNERCHANNEL.png"
+          },
+          {
+            "name": "Warner Channel [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/746",
+            "logo": "http://beststorage4you.com:80/logoscanais/WARNERCHANNEL.png"
+          },
+          {
+            "name": "Universal TV [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/713",
+            "logo": "http://beststorage4you.com:80/logoscanais/STUDIOUNIVERSAL.png"
+          },
+          {
+            "name": "Universal TV [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/711",
+            "logo": "http://beststorage4you.com:80/logoscanais/STUDIOUNIVERSAL.png"
+          },
+          {
+            "name": "Telecine Premium [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/543963",
+            "logo": "http://beststorage4you.com:80/logoscanais/TELECINE.png"
+          },
+          {
+            "name": "Telecine Premium [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/543964",
+            "logo": "http://beststorage4you.com:80/logoscanais/TELECINE.png"
+          },
+          {
+            "name": "Telecine Action [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/615",
+            "logo": "http://beststorage4you.com:80/logoscanais/TELECINE.png"
+          },
+          {
+            "name": "Telecine Action [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/613",
+            "logo": "http://beststorage4you.com:80/logoscanais/TELECINE.png"
+          },
+          {
+            "name": "Telecine Touch [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/543957",
+            "logo": "http://beststorage4you.com:80/logoscanais/TELECINE.png"
+          },
+          {
+            "name": "Telecine Touch [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/543958",
+            "logo": "http://beststorage4you.com:80/logoscanais/TELECINE.png"
+          },
+          {
+            "name": "Telecine Fun [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/559656",
+            "logo": "http://beststorage4you.com:80/logoscanais/TELECINE.png"
+          },
+          {
+            "name": "Telecine Fun [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/559657",
+            "logo": "http://beststorage4you.com:80/logoscanais/TELECINE.png"
+          },
+          {
+            "name": "Telecine Pipoca [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/543960",
+            "logo": "http://beststorage4you.com:80/logoscanais/TELECINE.png"
+          },
+          {
+            "name": "Telecine Pipoca [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/543961",
+            "logo": "http://beststorage4you.com:80/logoscanais/TELECINE.png"
+          },
+          {
+            "name": "Telecine Cult [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/543954",
+            "logo": "http://beststorage4you.com:80/logoscanais/TELECINE.png"
+          },
+          {
+            "name": "Telecine Cult [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/543955",
+            "logo": "http://beststorage4you.com:80/logoscanais/TELECINE.png"
+          },
+          {
+            "name": "Cinemax [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/682",
+            "logo": "http://beststorage4you.com:80/logoscanais/CINEMAX.png"
+          },
+          {
+            "name": "Cinemax [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/680",
+            "logo": "http://beststorage4you.com:80/logoscanais/CINEMAX.png"
+          },
+          {
+            "name": "AXN [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/676",
+            "logo": "http://beststorage4you.com:80/logoscanais/AXN.png"
+          },
+          {
+            "name": "AXN [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/674",
+            "logo": "http://beststorage4you.com:80/logoscanais/AXN.png"
+          },
+          {
+            "name": "Sony Channel [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/702",
+            "logo": "http://beststorage4you.com:80/logoscanais/SONYCHANNEL.png"
+          },
+          {
+            "name": "Sony Channel [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/700",
+            "logo": "http://beststorage4you.com:80/logoscanais/SONYCHANNEL.png"
+          },
+          {
+            "name": "Paramount Network [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/250563",
+            "logo": "http://beststorage4you.com:80/logoscanais/PARAMOUNTPLUS.png"
+          },
+          {
+            "name": "Paramount Network [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/250560",
+            "logo": "http://beststorage4you.com:80/logoscanais/PARAMOUNTPLUS.png"
+          },
+          {
+            "name": "Studio Universal [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/713",
+            "logo": "http://beststorage4you.com:80/logoscanais/STUDIOUNIVERSAL.png"
+          },
+          {
+            "name": "Studio Universal [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/711",
+            "logo": "http://beststorage4you.com:80/logoscanais/STUDIOUNIVERSAL.png"
+          },
+          {
+            "name": "Canal Brasil [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/146",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png"
+          },
+          {
+            "name": "Canal Brasil [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/145",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png"
+          },
+          {
+            "name": "A&E [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/666",
+            "logo": "http://beststorage4you.com:80/logoscanais/A&E.png"
+          },
+          {
+            "name": "A&E [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/664",
+            "logo": "http://beststorage4you.com:80/logoscanais/A&E.png"
+          },
+          {
+            "name": "FX [720p HD]",
+            "url": "http://dns.explouddev.com:80/movie/632270679/F823j7133R/1252.mp4",
+            "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5Pt5eksuxKFC6EUIKTW4qsSAEH.jpg"
+          },
+          {
+            "name": "TCM [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/740",
+            "logo": "http://beststorage4you.com:80/logoscanais/TCM.png"
+          },
+          {
+            "name": "Comedy Central [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/285541",
+            "logo": "http://beststorage4you.com:80/logoscanais/EUA.png"
+          }
+        ]
+      },
+      {
+        "id": "documentarios",
+        "title": "Document\u00e1rios e Variedades (1080p / 720p)",
+        "channels": [
+          {
+            "name": "History Channel [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2617",
+            "logo": "http://beststorage4you.com:80/logoscanais/HISTORY.png"
+          },
+          {
+            "name": "History Channel [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2615",
+            "logo": "http://beststorage4you.com:80/logoscanais/HISTORY.png"
+          },
+          {
+            "name": "History 2 [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2622",
+            "logo": "http://beststorage4you.com:80/logoscanais/HISTORY.png"
+          },
+          {
+            "name": "History 2 [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2620",
+            "logo": "http://beststorage4you.com:80/logoscanais/HISTORY.png"
+          },
+          {
+            "name": "Discovery Channel [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2577",
+            "logo": "http://beststorage4you.com:80/logoscanais/DISCOVERYCHANNEL.png"
+          },
+          {
+            "name": "Discovery Channel [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2575",
+            "logo": "http://beststorage4you.com:80/logoscanais/DISCOVERYCHANNEL.png"
+          },
+          {
+            "name": "Discovery Turbo [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2592",
+            "logo": "http://beststorage4you.com:80/logoscanais/DISCOVERYTURBO.png"
+          },
+          {
+            "name": "Discovery Turbo [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2590",
+            "logo": "http://beststorage4you.com:80/logoscanais/DISCOVERYTURBO.png"
+          },
+          {
+            "name": "Discovery Science [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2582",
+            "logo": "http://beststorage4you.com:80/logoscanais/DISCOVERYSCIENCE.png"
+          },
+          {
+            "name": "Discovery Science [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2580",
+            "logo": "http://beststorage4you.com:80/logoscanais/DISCOVERYSCIENCE.png"
+          },
+          {
+            "name": "Discovery Theater [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2587",
+            "logo": "http://beststorage4you.com:80/logoscanais/DISCOVERYTHEATER.png"
+          },
+          {
+            "name": "Discovery Theater [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2585",
+            "logo": "http://beststorage4you.com:80/logoscanais/DISCOVERYTHEATER.png"
+          },
+          {
+            "name": "Discovery Home & Health [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2572",
+            "logo": "http://beststorage4you.com/logoscanais/DISCOVERYHOME&HEALTH.png"
+          },
+          {
+            "name": "Discovery Home & Health [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2570",
+            "logo": "http://beststorage4you.com/logoscanais/DISCOVERYHOME&HEALTH.png"
+          },
+          {
+            "name": "Animal Planet [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2602",
+            "logo": "http://beststorage4you.com:80/logoscanais/ANIMALPLANET.png"
+          },
+          {
+            "name": "Animal Planet [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/365234",
+            "logo": "http://beststorage4you.com:80/logoscanais/ANIMALPLANET.png"
+          },
+          {
+            "name": "National Geographic [720p HD]",
+            "url": "http://dns.explouddev.com:80/series/632270679/F823j7133R/571678.mp4",
+            "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ztnTPFeXyGH0gZ2WFpUKkb8Iou.jpg"
+          },
+          {
+            "name": "Nat Geo Wild [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/285745",
+            "logo": "http://beststorage4you.com:80/logoscanais/EUA.png"
+          },
+          {
+            "name": "HGTV [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2627",
+            "logo": "http://beststorage4you.com:80/logoscanais/HGTV.png"
+          },
+          {
+            "name": "HGTV [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2625",
+            "logo": "http://beststorage4you.com:80/logoscanais/HGTV.png"
+          },
+          {
+            "name": "TLC [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/728",
+            "logo": "http://beststorage4you.com:80/logoscanais/TLC.png"
+          },
+          {
+            "name": "TLC [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/726",
+            "logo": "http://beststorage4you.com:80/logoscanais/TLC.png"
+          },
+          {
+            "name": "Food Network [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2480",
+            "logo": "http://beststorage4you.com:80/logoscanais/FOODNETWORK.png"
+          },
+          {
+            "name": "Food Network [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2479",
+            "logo": "http://beststorage4you.com:80/logoscanais/FOODNETWORK.png"
+          },
+          {
+            "name": "Canal Curta! [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2612",
+            "logo": "http://beststorage4you.com:80/logoscanais/CURTA!.jpg"
+          },
+          {
+            "name": "Canal Curta! [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/367045",
+            "logo": "http://beststorage4you.com:80/logoscanais/CURTA!.jpg"
+          },
+          {
+            "name": "Arte 1 [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/2607",
+            "logo": "http://beststorage4you.com:80/logoscanais/ARTE1.png"
+          },
+          {
+            "name": "Arte 1 [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/367046",
+            "logo": "http://beststorage4you.com:80/logoscanais/ARTE1.png"
+          },
+          {
+            "name": "Viva [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/112104",
+            "logo": "http://beststorage4you.com:80/logoscanais/Portugal.png"
+          }
+        ]
+      },
+      {
+        "id": "noticias",
+        "title": "Not\u00edcias (1080p / 720p)",
+        "channels": [
+          {
+            "name": "GloboNews [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/479",
+            "logo": "http://beststorage4you.com:80/logoscanais/GLOBONEWS.png"
+          },
+          {
+            "name": "GloboNews [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/478",
+            "logo": "http://beststorage4you.com:80/logoscanais/GLOBONEWS.png"
+          },
+          {
+            "name": "CNN Brasil [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/474",
+            "logo": "http://beststorage4you.com:80/logoscanais/CNNBRASIL.png"
+          },
+          {
+            "name": "CNN Brasil [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/472",
+            "logo": "http://beststorage4you.com:80/logoscanais/CNNBRASIL.png"
+          },
+          {
+            "name": "BandNews [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/469",
+            "logo": "http://beststorage4you.com:80/logoscanais/BANDNEWS.png"
+          },
+          {
+            "name": "BandNews [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/467",
+            "logo": "http://beststorage4you.com:80/logoscanais/BANDNEWS.png"
+          },
+          {
+            "name": "Jovem Pan News [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/483",
+            "logo": "http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png"
+          },
+          {
+            "name": "Jovem Pan News [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/482",
+            "logo": "http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png"
+          },
+          {
+            "name": "Record News [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/488",
+            "logo": "http://beststorage4you.com:80/logoscanais/RECORDNEWS.png"
+          },
+          {
+            "name": "Record News [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/486",
+            "logo": "http://beststorage4you.com:80/logoscanais/RECORDNEWS.png"
+          },
+          {
+            "name": "SBT News [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/599766",
+            "logo": "http://beststorage4you.com:80/logoscanais/SBT.png"
+          },
+          {
+            "name": "SBT News [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/599767",
+            "logo": "http://beststorage4you.com:80/logoscanais/SBT.png"
+          },
+          {
+            "name": "Bloomberg [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/552456",
+            "logo": "http://beststorage4you.com:80/logoscanais/bloomberg.png"
+          },
+          {
+            "name": "AgroMais [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/464",
+            "logo": "http://beststorage4you.com:80/logoscanais/AGROMAIS.png"
+          },
+          {
+            "name": "AgroMais [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/462",
+            "logo": "http://beststorage4you.com:80/logoscanais/AGROMAIS.png"
+          }
+        ]
+      },
+      {
+        "id": "infantil",
+        "title": "Infantil e Desenhos (1080p / 720p)",
+        "channels": [
+          {
+            "name": "Cartoon Network [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/352",
+            "logo": "http://beststorage4you.com:80/logoscanais/CARTOONNETWORK.png"
+          },
+          {
+            "name": "Cartoon Network [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/351",
+            "logo": "http://beststorage4you.com:80/logoscanais/CARTOONNETWORK.png"
+          },
+          {
+            "name": "Cartoonito [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/110683",
+            "logo": "http://beststorage4you.com:80/logoscanais/CARTOONITO.png"
+          },
+          {
+            "name": "Cartoonito [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/110684",
+            "logo": "http://beststorage4you.com:80/logoscanais/CARTOONITO.png"
+          },
+          {
+            "name": "Discovery Kids [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/364",
+            "logo": "http://beststorage4you.com:80/logoscanais/DISCOVERYKIDS.png"
+          },
+          {
+            "name": "Discovery Kids [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/363",
+            "logo": "http://beststorage4you.com:80/logoscanais/DISCOVERYKIDS.png"
+          },
+          {
+            "name": "Gloob [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/377228",
+            "logo": "http://beststorage4you.com:80/logoscanais/GLOOB.png"
+          },
+          {
+            "name": "Gloob [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/377229",
+            "logo": "http://beststorage4you.com:80/logoscanais/GLOOB.png"
+          },
+          {
+            "name": "Gloobinho [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/377232",
+            "logo": "http://beststorage4you.com:80/logoscanais/GLOOBINHO.png"
+          },
+          {
+            "name": "Gloobinho [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/377234",
+            "logo": "http://beststorage4you.com:80/logoscanais/GLOOBINHO.png"
+          },
+          {
+            "name": "Nickelodeon [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/285758",
+            "logo": "http://beststorage4you.com:80/logoscanais/EUA.png"
+          },
+          {
+            "name": "Nick Jr [1080p FULL HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/249214",
+            "logo": "http://beststorage4you.com/logoscanais/latinos.png"
+          },
+          {
+            "name": "Disney Junior [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/249207",
+            "logo": "http://beststorage4you.com/logoscanais/latinos.png"
+          },
+          {
+            "name": "Tooncast [720p HD]",
+            "url": "http://dns.explouddev.com:80/632270679/F823j7133R/249217",
+            "logo": "http://beststorage4you.com/logoscanais/latinos.png"
+          }
+        ]
+      }
+    ]
+  },
+  "signature": "oqLxQ/E93F5aVNy0znxjtofD4SYBCF22ySuj2xZLLISmwHkHQ2/HzbS11x+kHd6HLM1TR9jfmSE/h9nmmYw0fmjgDn0wt/N7aWRIphRYLi68RtrWoms5BXQcRnEjLxzFERNKLYUAosFK0vXMnuxIMbPPRmLqUdSTZycFvnI/SV6tdp9GXZsAiFWOI2CTwB5gq0lf7sqqm+9uD3yWv+AzUaa62lSTCgLQlDI0D2txK0ZSr2mO7tZWwPUuWbKNIULhhJNfB2ep0s919vg4YAdBDuQr1nmvP4iF/LswpJSqF0o9hcC1++6syCcz2Gnw/4abEkXz8eijIx3U0b0ypyNlyA=="
+}

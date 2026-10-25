@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.az_iptv" name="Az IPTV" version="0.4.0" provider-name="Local">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">IPTV catalog for the Azamerica S1009 Plus</summary>
+    <description lang="en">Signed GitHub catalog and local M3U playlists.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
